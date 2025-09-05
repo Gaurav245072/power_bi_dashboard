@@ -19,11 +19,6 @@ The goal was to analyze sales performance, profitability, and provide a short-te
 - Data Cleaning & Transformation with **Power Query**  
 - DAX for calculated measures  
 - Time Series Forecasting  
-
-## 📸 Dashboard Preview
-![Page 1](./Dashboard_Screenshots/page1.png)  
-![Page 2](./Dashboard_Screenshots/page2.png)
-
 ---
 
 🚀 **Future Scope**  
